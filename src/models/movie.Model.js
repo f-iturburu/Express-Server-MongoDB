@@ -10,4 +10,4 @@ const movie = new Schema({
     timestamps:true
 })
 
-  export default model ("Movie", movie)
+export default model ("Movie", movie)
